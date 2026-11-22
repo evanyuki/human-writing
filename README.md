@@ -2,9 +2,13 @@
 
 ![让AI说人话，去 AI 味，去套话，像真人在聊天](./assets/readme-cover.svg)
 
+[![最新发布版本](https://img.shields.io/github/v/release/evanyuki/human-writing?style=flat-square)](https://github.com/evanyuki/human-writing/releases/latest)
+[![MIT 许可证](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](./LICENSE)
+[![Agent Skills 标准](https://img.shields.io/badge/Agent%20Skills-standard-555555?style=flat-square)](https://agentskills.io/specification)
+
 「让AI说人话」是一个中文写作 Skill。你可以拿采访笔记让它写人物稿，也可以给它一整章小说，只请它改其中一句对白。写真人，细节得有来处。写小说，人物要有自己的打算。
 
-当前版本 [1.0.0](./CHANGELOG.md) · [MIT 许可证](./LICENSE)
+[更新日志](./CHANGELOG.md)
 
 ## 安装
 
